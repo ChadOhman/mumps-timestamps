@@ -1,0 +1,7 @@
+C:\Users\Chad Ohman\Documents\GitHub\mumps-timestamps\mumps-timestamps\mumps-timestamps\obj\Debug\mumps-timestamps.csprojAssemblyReference.cache
+C:\Users\Chad Ohman\Documents\GitHub\mumps-timestamps\mumps-timestamps\mumps-timestamps\obj\Debug\mumps-timestamps.csproj.CoreCompileInputs.cache
+C:\Users\Chad Ohman\Documents\GitHub\mumps-timestamps\mumps-timestamps\mumps-timestamps\bin\Debug\mumps-timestamps.exe.config
+C:\Users\Chad Ohman\Documents\GitHub\mumps-timestamps\mumps-timestamps\mumps-timestamps\bin\Debug\mumps-timestamps.exe
+C:\Users\Chad Ohman\Documents\GitHub\mumps-timestamps\mumps-timestamps\mumps-timestamps\bin\Debug\mumps-timestamps.pdb
+C:\Users\Chad Ohman\Documents\GitHub\mumps-timestamps\mumps-timestamps\mumps-timestamps\obj\Debug\mumps-timestamps.exe
+C:\Users\Chad Ohman\Documents\GitHub\mumps-timestamps\mumps-timestamps\mumps-timestamps\obj\Debug\mumps-timestamps.pdb
